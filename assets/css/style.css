@@ -1,0 +1,37 @@
+.car-photo {
+	max-width: 300px;
+}
+.padding-top {
+	padding-top: 40px;
+}
+.padding-bottom {
+	padding-bottom: 40px;
+}
+.year {
+	white-space: nowrap;
+	vertical-align: middle;
+	color: #78C2AD;
+	font-size: 60%;
+}
+.edit-link {
+	float: right;
+	padding-left: 10px;
+}
+a.edit-link:hover {
+	text-decoration: none;
+	color: #e20074;
+}
+.back-link {
+	margin-left: 15px;
+}
+.delete-link {
+	vertical-align: middle;
+	margin-left: 10px;
+}
+.links {
+	float: right;
+	margin-right: 20px;
+}
+.float-to-right {
+	float: right;
+}
